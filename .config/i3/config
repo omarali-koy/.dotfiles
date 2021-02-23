@@ -49,7 +49,7 @@ bindsym $mod+Return exec $myTerm
 bindsym $mod+Shift+Return exec thunar
 bindsym $mod+F1 exec firefox 
 bindsym $mod+Shift+d exec --no-startup-id rofi -show drun -modi drun -dpi 250 -theme drun
-
+bindsym $mod+Shift+s exec flameshot gui
 
 # focus_follows_mouse no
 
