@@ -36,7 +36,7 @@ bindsym $mod+Shift+q kill
 ################################################################################################
 
 exec --no-startup-id volumeicon
-#exec --no-startup-id pulseaudio
+exec --no-startup-id pulseaudio
 #exec --no-startup-id pa-applet
 
 ################################################################################################
