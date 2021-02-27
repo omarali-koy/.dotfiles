@@ -57,7 +57,7 @@ font-2 = siji:pixelsize=20;1
 
 modules-left = i3
 modules-center = wlan network
-modules-right = xbacklight pulseaudio xkeyboard memory cpu date powermenu
+modules-right = xbacklight alsa xkeyboard memory cpu date powermenu
 
 tray-position = right
 tray-padding = 2

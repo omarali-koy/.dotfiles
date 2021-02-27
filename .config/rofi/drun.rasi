@@ -1,0 +1,32 @@
+configuration {
+    theme:             "config";
+    show-icons:        true;
+    font:              "DejaVu Sans 13";
+}
+
+mainbox {
+    padding:           300px 800px;
+}
+
+element {
+    orientation:       vertical;
+}
+
+entry {
+    margin:            5px 5px;
+}
+
+listview {
+    columns:           1;
+}
+
+
+element-icon {
+    size:              256; /* Must be a power of 2 */
+    border:            0px;
+}
+
+element-text {
+    expand:            true;
+    horizontal-align:  0.5;
+}
